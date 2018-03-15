@@ -1,0 +1,4 @@
+dist
+orionx.egg-info
+orionx/__pycache__
+orionx/*.pyc
